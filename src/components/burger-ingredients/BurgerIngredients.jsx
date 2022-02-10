@@ -50,7 +50,7 @@ const BurgerIngredients = () => {
 
    return (
       <>
-         <div className='mt-5 mr-10' >
+         <div className='mt-5 mr-10' ref={parentRef}>
             <nav className={style.tab}  >
                <Tab value="bun" active={current === 'bun'} onClick={clickTabBun} >
                   Булки
@@ -63,7 +63,7 @@ const BurgerIngredients = () => {
                </Tab>
             </nav>
 
-            <div className={style.ingredients} ref={parentRef}>
+            <div className={style.ingredients} >
                <ListIngredients ref={bunRef} ingredients={bun} title='Булки' />
                <ListIngredients ref={mainRef} ingredients={main} title='Начинки' />
                <ListIngredients ref={sauceRef} ingredients={sauce} title='Соусы' />

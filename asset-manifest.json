@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-burger/static/css/main.c15b57f7.css",
-    "main.js": "/react-burger/static/js/main.54761d87.js",
-    "static/js/787.da77299e.chunk.js": "/react-burger/static/js/787.da77299e.chunk.js",
-    "static/media/404 Error-bro.png": "/react-burger/static/media/404 Error-bro.d73e01d67f6e0df38963.png",
-    "static/media/done.gif": "/react-burger/static/media/done.cc5a59a7a28231cabd53.gif",
-    "static/media/JetBrainsMono-Bold.woff": "/react-burger/static/media/JetBrainsMono-Bold.3914674f1cb2335acf26.woff",
-    "static/media/JetBrainsMono-Regular.woff": "/react-burger/static/media/JetBrainsMono-Regular.f52bee61d00ce995b89f.woff",
-    "static/media/JetBrainsMono-Bold.woff2": "/react-burger/static/media/JetBrainsMono-Bold.c232d532ea5a5189a278.woff2",
-    "static/media/JetBrainsMono-Regular.woff2": "/react-burger/static/media/JetBrainsMono-Regular.b60380891bcf2eb241ca.woff2",
-    "static/media/iceland.woff": "/react-burger/static/media/iceland.77ad7fc2baffd9305538.woff",
-    "static/media/iceland.woff2": "/react-burger/static/media/iceland.4ae67a017a5ff82bbbb7.woff2",
-    "index.html": "/react-burger/index.html",
-    "main.c15b57f7.css.map": "/react-burger/static/css/main.c15b57f7.css.map",
-    "main.54761d87.js.map": "/react-burger/static/js/main.54761d87.js.map",
-    "787.da77299e.chunk.js.map": "/react-burger/static/js/787.da77299e.chunk.js.map"
+    "main.css": "/Stellar-Burger/static/css/main.29d9ece6.css",
+    "main.js": "/Stellar-Burger/static/js/main.c5a186f4.js",
+    "static/js/787.da77299e.chunk.js": "/Stellar-Burger/static/js/787.da77299e.chunk.js",
+    "static/media/404 Error-bro.png": "/Stellar-Burger/static/media/404 Error-bro.d73e01d67f6e0df38963.png",
+    "static/media/done.gif": "/Stellar-Burger/static/media/done.cc5a59a7a28231cabd53.gif",
+    "static/media/JetBrainsMono-Bold.woff": "/Stellar-Burger/static/media/JetBrainsMono-Bold.3914674f1cb2335acf26.woff",
+    "static/media/JetBrainsMono-Regular.woff": "/Stellar-Burger/static/media/JetBrainsMono-Regular.f52bee61d00ce995b89f.woff",
+    "static/media/JetBrainsMono-Bold.woff2": "/Stellar-Burger/static/media/JetBrainsMono-Bold.c232d532ea5a5189a278.woff2",
+    "static/media/JetBrainsMono-Regular.woff2": "/Stellar-Burger/static/media/JetBrainsMono-Regular.b60380891bcf2eb241ca.woff2",
+    "static/media/iceland.woff": "/Stellar-Burger/static/media/iceland.77ad7fc2baffd9305538.woff",
+    "static/media/iceland.woff2": "/Stellar-Burger/static/media/iceland.4ae67a017a5ff82bbbb7.woff2",
+    "index.html": "/Stellar-Burger/index.html",
+    "main.29d9ece6.css.map": "/Stellar-Burger/static/css/main.29d9ece6.css.map",
+    "main.c5a186f4.js.map": "/Stellar-Burger/static/js/main.c5a186f4.js.map",
+    "787.da77299e.chunk.js.map": "/Stellar-Burger/static/js/787.da77299e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c15b57f7.css",
-    "static/js/main.54761d87.js"
+    "static/css/main.29d9ece6.css",
+    "static/js/main.c5a186f4.js"
   ]
 }

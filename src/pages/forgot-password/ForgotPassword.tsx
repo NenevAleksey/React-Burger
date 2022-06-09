@@ -43,7 +43,6 @@ const ForgotPassword: FC = () => {
                   name={'Укажите e-mail'}
                   error={false}
                   ref={inputRef}
-                  
                   errorText={'Ошибка'}
                   size={'default'}
                />

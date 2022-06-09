@@ -5,7 +5,6 @@ import { Link, NavLink } from 'react-router-dom';
 
 
 const AppHeader: FC = () => {
-   
    return (
       <header className={`${style.header} text text_type_main-default`}>
          <nav className={`${style.content} p-4`}>
